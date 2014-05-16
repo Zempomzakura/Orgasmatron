@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="error">escribe algo no seas flojo</string>
+    <string name="editText">Añadir Nota</string>
+    <string name="text1">Añadir Titulo</string>
+    <string name="text2">Añadir Clasifiacion</string>
+    <string name="text3">Añadir DEscripcion</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+
+</resources>
